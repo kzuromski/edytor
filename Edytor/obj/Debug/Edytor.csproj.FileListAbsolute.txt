@@ -1,0 +1,42 @@
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\bin\Debug\Edytor.exe.config
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\bin\Debug\Edytor.exe
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\bin\Debug\Edytor.pdb
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\obj\Debug\Edytor.csprojAssemblyReference.cache
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\obj\Debug\Edytor.Form1.resources
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\obj\Debug\Edytor.Properties.Resources.resources
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\obj\Debug\Edytor.csproj.GenerateResource.cache
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\obj\Debug\Edytor.csproj.CoreCompileInputs.cache
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\obj\Debug\Edytor.exe
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\obj\Debug\Edytor.pdb
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\bin\Debug\ClassLibrary1.dll
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\bin\Debug\ClassLibrary2.dll
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\bin\Debug\ClassLibrary3.dll
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\bin\Debug\ClassLibrary4.dll
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\bin\Debug\ClassLibrary5.dll
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\bin\Debug\ClassLibrary1.pdb
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\bin\Debug\ClassLibrary2.pdb
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\bin\Debug\ClassLibrary3.pdb
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\bin\Debug\ClassLibrary4.pdb
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\bin\Debug\ClassLibrary5.pdb
+C:\Users\kzuromsk\source\repos\Edytor\Edytor\obj\Debug\Edytor.csproj.CopyComplete
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\bin\Debug\Edytor.exe.config
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\bin\Debug\Edytor.exe
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\bin\Debug\Edytor.pdb
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\bin\Debug\ClassLibrary1.dll
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\bin\Debug\ClassLibrary2.dll
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\bin\Debug\ClassLibrary3.dll
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\bin\Debug\ClassLibrary4.dll
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\bin\Debug\ClassLibrary5.dll
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\bin\Debug\ClassLibrary1.pdb
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\bin\Debug\ClassLibrary2.pdb
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\bin\Debug\ClassLibrary3.pdb
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\bin\Debug\ClassLibrary4.pdb
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\bin\Debug\ClassLibrary5.pdb
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\obj\Debug\Edytor.csprojAssemblyReference.cache
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\obj\Debug\Edytor.Form1.resources
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\obj\Debug\Edytor.Properties.Resources.resources
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\obj\Debug\Edytor.csproj.GenerateResource.cache
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\obj\Debug\Edytor.csproj.CoreCompileInputs.cache
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\obj\Debug\Edytor.csproj.CopyComplete
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\obj\Debug\Edytor.exe
+C:\Users\kzuromsk\Desktop\Edytor (1)\Edytor\obj\Debug\Edytor.pdb

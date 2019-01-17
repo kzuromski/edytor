@@ -1,0 +1,12 @@
+C:\Users\kzuromsk\source\repos\Edytor\ClassLibrary4\bin\Debug\ClassLibrary4.dll
+C:\Users\kzuromsk\source\repos\Edytor\ClassLibrary4\bin\Debug\ClassLibrary4.pdb
+C:\Users\kzuromsk\source\repos\Edytor\ClassLibrary4\obj\Debug\ClassLibrary4.csprojAssemblyReference.cache
+C:\Users\kzuromsk\source\repos\Edytor\ClassLibrary4\obj\Debug\ClassLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\kzuromsk\source\repos\Edytor\ClassLibrary4\obj\Debug\ClassLibrary4.dll
+C:\Users\kzuromsk\source\repos\Edytor\ClassLibrary4\obj\Debug\ClassLibrary4.pdb
+C:\Users\kzuromsk\Desktop\Edytor (1)\ClassLibrary4\bin\Debug\ClassLibrary4.dll
+C:\Users\kzuromsk\Desktop\Edytor (1)\ClassLibrary4\bin\Debug\ClassLibrary4.pdb
+C:\Users\kzuromsk\Desktop\Edytor (1)\ClassLibrary4\obj\Debug\ClassLibrary4.csprojAssemblyReference.cache
+C:\Users\kzuromsk\Desktop\Edytor (1)\ClassLibrary4\obj\Debug\ClassLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\kzuromsk\Desktop\Edytor (1)\ClassLibrary4\obj\Debug\ClassLibrary4.dll
+C:\Users\kzuromsk\Desktop\Edytor (1)\ClassLibrary4\obj\Debug\ClassLibrary4.pdb

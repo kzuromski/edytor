@@ -1,0 +1,12 @@
+C:\Users\kzuromsk\source\repos\Edytor\ClassLibrary5\bin\Debug\ClassLibrary5.dll
+C:\Users\kzuromsk\source\repos\Edytor\ClassLibrary5\bin\Debug\ClassLibrary5.pdb
+C:\Users\kzuromsk\source\repos\Edytor\ClassLibrary5\obj\Debug\ClassLibrary5.csproj.CoreCompileInputs.cache
+C:\Users\kzuromsk\source\repos\Edytor\ClassLibrary5\obj\Debug\ClassLibrary5.dll
+C:\Users\kzuromsk\source\repos\Edytor\ClassLibrary5\obj\Debug\ClassLibrary5.pdb
+C:\Users\kzuromsk\source\repos\Edytor\ClassLibrary5\obj\Debug\ClassLibrary5.csprojAssemblyReference.cache
+C:\Users\kzuromsk\Desktop\Edytor (1)\ClassLibrary5\bin\Debug\ClassLibrary5.dll
+C:\Users\kzuromsk\Desktop\Edytor (1)\ClassLibrary5\bin\Debug\ClassLibrary5.pdb
+C:\Users\kzuromsk\Desktop\Edytor (1)\ClassLibrary5\obj\Debug\ClassLibrary5.csprojAssemblyReference.cache
+C:\Users\kzuromsk\Desktop\Edytor (1)\ClassLibrary5\obj\Debug\ClassLibrary5.csproj.CoreCompileInputs.cache
+C:\Users\kzuromsk\Desktop\Edytor (1)\ClassLibrary5\obj\Debug\ClassLibrary5.dll
+C:\Users\kzuromsk\Desktop\Edytor (1)\ClassLibrary5\obj\Debug\ClassLibrary5.pdb
